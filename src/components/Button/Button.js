@@ -1,6 +1,6 @@
 import './Button.css'
 export const Button = (props) => {
     return(
-        <button className='button-container'>{props.text}</button>
+        <button className='button-container'>{props.children}</button>
     )
 }
