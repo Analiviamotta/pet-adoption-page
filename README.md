@@ -1,6 +1,5 @@
 # Pet Adoption Page.
-This page is purely fictitious and does not represent an actual pet adoption agency.
-this is a study of development in React.
+This page is purely fictitious and does not represent an actual pet adoption agency, this is a study of development in React.
 
 ## Getting Started with Create React App
 
