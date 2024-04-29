@@ -11,9 +11,13 @@ export const Form = () => {
         'Thor',
         'Atena'
     ]
+    const send = () =>{
+        console.log('oi')
+    }
+
     return (
         <section className='form-container'>
-            <form>
+            <form onSubmit={send()}>
                 <h1>Deixe sua mensagem para um dos animais disponíveis</h1>
                 <TextField notNull = {true} label="nome" placeholder="nome"></TextField>
                 <TextField label="Mensagem" placeholder="mensagem"></TextField>
