@@ -1,7 +1,8 @@
-Pet Adoption Page, this is a study of development in React.
+# Pet Adoption Page.
 This page is purely fictitious and does not represent an actual pet adoption agency.
+this is a study of development in React.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
